@@ -21,6 +21,7 @@ const details = {
   email: 'chetna1675.be21@chitkara.edu.in',
   rollNumber: 2110991675,
   phone: 7206508144,
+  github_link: 'https://github.com/ChetnaBhatia/API-1',
 };
 
 
